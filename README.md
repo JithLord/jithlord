@@ -1,9 +1,4 @@
-### Hi there 👋
-
-
-**JithLord/jithlord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there 👋 I'm Jith Lord
 
 - 🔭 I’m currently working on Music Generation based on Emotion Recognition
 - 🌱 I’m currently learning Image Segmentation
