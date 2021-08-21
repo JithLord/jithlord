@@ -6,6 +6,7 @@
 <a href="https://github.com/jithlord">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jithlord&theme=dark&hide_langs_below=1" />
 </a>
+</br>
 - 🔭 I’m currently working on Music Generation based on Emotion Recognition
 - 🌱 I’m currently learning Image Segmentation
 - 👯 I’m looking to collaborate on projects based on AI and ML
