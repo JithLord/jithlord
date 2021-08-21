@@ -10,9 +10,7 @@
 - 📫 How to reach me: 308rwe3oa@relay.firefox.com
 - ⚡ Fun fact: I'm also an artist
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=jithlord&theme=midnight-purple&show_icons=true)](https://github.com/jithlord)
-
-<a href="https://github.com/jithlord">
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=jithlord&theme=midnight-purple&show_icons=true)](https://github.com/jithlord) <a href="https://github.com/jithlord">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jithlord&theme=dark&hide_langs_below=1" />
 </a>
 
