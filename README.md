@@ -19,4 +19,4 @@
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=jithlord)](https://github.com/jithlord)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jithlord&layout=compact)](https://github.com/jithlord)
+<a href=”https://www.linkedin.com/in/jithin-nambiar-j/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
