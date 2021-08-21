@@ -17,6 +17,6 @@
 </a>
 
 </br></br>
-
-## Connect with Me
+</br></br>
+### Connect with Me
 <a href="https://www.linkedin.com/in/jithin-nambiar-j/"><img align="left" src="https://raw.githubusercontent.com/jithlord/jithlord/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
