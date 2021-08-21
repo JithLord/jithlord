@@ -4,7 +4,6 @@
  
 ### Hi there 👋 I'm Jith Lord
 
-</br>
 - 🔭 I’m currently working on Music Generation based on Emotion Recognition
 - 🌱 I’m currently learning Image Segmentation
 - 👯 I’m looking to collaborate on projects based on AI and ML
