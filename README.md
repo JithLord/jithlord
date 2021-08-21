@@ -17,6 +17,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jithlord&theme=dark&hide_langs_below=1" />
 </a>
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/jithlord)
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=jithlord)](https://github.com/jithlord)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/jithlord)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jithlord&layout=compact)](https://github.com/jithlord)
