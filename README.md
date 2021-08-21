@@ -1,6 +1,6 @@
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=USERNAME&label=Views&color=blue&style=plastic" alt="jithlord" />
- </p>
+<p align="left"> <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+ </p> 
+ <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Views&color=blue&style=plastic" alt="jithlord" /> 
  
 ### Hi there 👋 I'm Jith Lord
 
@@ -12,6 +12,7 @@
 </br></br>
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=jithlord&theme=midnight-purple&show_icons=true)](https://github.com/jithlord)
+
 <a href="https://github.com/jithlord">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jithlord&theme=dark&hide_langs_below=1" />
 </a>
