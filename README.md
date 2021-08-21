@@ -1,5 +1,5 @@
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=jithlord&label=Views&color=blue&style=plastic" alt="jithlord" />
+<img src="https://komarev.com/ghpvc/?username=USERNAME&label=Views&color=blue&style=plastic" alt="jithlord" />
  </p>
  
 ### Hi there 👋 I'm Jith Lord
