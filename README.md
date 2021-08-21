@@ -3,9 +3,7 @@
  </p>
  
 ### Hi there 👋 I'm Jith Lord
-<a href="https://github.com/jithlord">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jithlord&theme=dark&hide_langs_below=1" />
-</a>
+
 </br>
 - 🔭 I’m currently working on Music Generation based on Emotion Recognition
 - 🌱 I’m currently learning Image Segmentation
@@ -16,3 +14,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm also an artist
 
+<a href="https://github.com/jithlord">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jithlord&theme=dark&hide_langs_below=1" />
+</a>
