@@ -16,3 +16,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jithlord&theme=dark&hide_langs_below=1" />
 </a>
 
+</br></br>
+
+## Connect with Me
+<a href="https://www.linkedin.com/in/jithin-nambiar-j/"><img align="left" src="https://raw.githubusercontent.com/jithlord/jithlord/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
