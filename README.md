@@ -1,9 +1,9 @@
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=USERNAME&label=Views&color=blue&style=plastic" alt="digvijay173" />
+<img src="https://komarev.com/ghpvc/?username=jithlord&label=Views&color=blue&style=plastic" alt="digvijay173" />
  </p>
  
 ### Hi there 👋 I'm Jith Lord
-<a href="https://github.com/USERNAME">
+<a href="https://github.com/jithlord">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&theme=light&hide_langs_below=1" />
 </a>
 - 🔭 I’m currently working on Music Generation based on Emotion Recognition
