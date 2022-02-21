@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I'm also an artist
 </br></br>
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=jithlord&theme=midnight-purple&show_icons=true)](https://github.com/jithlord)
+[![Jithin’s github stats](https://github-readme-stats.vercel.app/api?username=jithlord&theme=midnight-purple&show_icons=true)](https://github.com/jithlord)
 <a href="https://github.com/jithlord">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jithlord&theme=dark&hide_langs_below=1" />
 </a>
