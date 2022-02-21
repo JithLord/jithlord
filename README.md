@@ -4,10 +4,10 @@
  
 ### Hi there 👋 I'm Jith Lord
 
-- 🔭 I’m currently working on Music Generation based on Emotion Recognition
+- 🔭 I’m currently exploring the field of CyberSec
 - 👯 I’m looking to collaborate on projects based on AI and ML
 -  Checkout my website: www.jithlord.ml
-- 📫 How to reach me: 308rwe3oa@relay.firefox.com
+- 📫 Reach me at 308rwe3oa@relay.firefox.com
 - ⚡ Fun fact: I'm also an artist
 </br></br>
 
