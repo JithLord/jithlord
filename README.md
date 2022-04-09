@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on projects based on AI and ML
 -  Checkout my website: www.jithlord.ml
 - 📫 Reach me at 308rwe3oa@relay.firefox.com
-- ⚡ Fun fact: I'm also an artist
+
 </br></br>
 
 [![Jithin’s github stats](https://github-readme-stats.vercel.app/api?username=jithlord&theme=midnight-purple&show_icons=true)](https://github.com/jithlord)
