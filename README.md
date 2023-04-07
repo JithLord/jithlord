@@ -5,7 +5,7 @@
 ### Hi there 👋 I'm Jith Lord
 
 - 🔭 I’m currently exploring the field of CyberSec
-- 👯 I’m looking to collaborate on projects based on AI & ML, CyberSecurity
+- 👯 I’m looking to collaborate on projects based on Computer Vision, AI & ML, and CyberSecurity
 - 📫 Reach me at 308rwe3oa@relay.firefox.com
 
 </br></br>
